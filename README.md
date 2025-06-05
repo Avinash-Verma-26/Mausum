@@ -1,4 +1,9 @@
-# Mausum
+# Mausum [ मौसम ]
+
+Borrowed from Classical Persian موسم (mawsim), from Arabic مَوْسِم (mawsim). Cognate of English monsoon. Compare Bengali মৌসুম (mōuśum), Gujarati મોસમ (mosam), Marathi मोसम (mosam), Punjabi ਮੌਸਮ (mausam).
+
+Mausam in Hindi refers in English to: season; weather; opportune time
+
 A one stop weather application.
 It is a collection of various tools to enhance usability, interactions and experience of a weather application.
 -----------------------------------------------------------------------------------------------------------------
@@ -14,13 +19,9 @@ With all the advancements in user experience design and the modern functionality
 This proposal aims to solve the omnipresent, yet rarely identified, problem of “boomer weather applications.”
 
 # What Mausum offers:
-Show weather data (duh) — but in a way that actually gives meaningful insights.
+☁️ Show weather data (duh) — but in a way that actually gives meaningful insights.
 
-Display forecast data (duh again) — but with suggestions for clothing, accessories, or activities based on your preferences and behavior learned over time.
+☁️ Display forecast data (duh again) — but with suggestions for clothing, accessories, or activities based on your preferences and behavior learned over time.
 
-Travel planner based on weather (the biggest duhhh):
-
-How has this idea been “under the radar” (pun intended) for so long?
-
-I want a way to figure out travel plans based on my budget, available time, preferred travel distance, mode of transportation, and desired weather conditions.
+☁️ Travel planner based on weather (the biggest duhhh). How has this idea been “under the radar” (pun intended) for so long? I want a way to figure out travel plans based on my budget, available time, preferred travel distance, mode of transportation, and desired weather conditions.
 (Doesn’t that sound like a realistic and practical ask?)

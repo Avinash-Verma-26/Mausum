@@ -25,3 +25,8 @@ This proposal aims to solve the omnipresent, yet rarely identified, problem of �
 
 ☁️ Travel planner based on weather (the biggest duhhh). How has this idea been “under the radar” (pun intended) for so long? I want a way to figure out travel plans based on my budget, available time, preferred travel distance, mode of transportation, and desired weather conditions.
 (Doesn’t that sound like a realistic and practical ask?)
+
+# Weather API's
+A few API's to consider
+1. https://open-meteo.com/
+2. https://openweathermap.org/city/2643743

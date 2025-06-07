@@ -8,7 +8,7 @@ const {
 } = require("../utilities/tempConvertors");
 
 const key = process.env.WEATHER_API_KEY;
-console.log(key);
+// console.log(key);
 
 router.get("/", async (req, res) => {
   const lat = 42.37197022339334;
